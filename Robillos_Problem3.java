@@ -14,14 +14,6 @@ public class Robillos_Problem3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-import java.util.Scanner;
-
-public class LastName_Problem3 {
-
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-
         System.out.print("Enter array size: ");
         int size = input.nextInt();
 
