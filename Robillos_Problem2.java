@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package robillos_problem2;
-
+import java.util.Scanner;
 /**
  *
  * @author ROBILLOS_CPE113
